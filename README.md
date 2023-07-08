@@ -1,1 +1,1 @@
-# stock_predict-
+The objective of a stock prediction project is to develop models or algorithms that can accurately forecast future stock prices, optimize investment portfolios, assess and manage risks, enable algorithmic trading, incorporate sentiment analysis, or compare and evaluate different prediction approaches. However, it's important to remember that stock prediction is challenging, and there are inherent risks involved in investing
